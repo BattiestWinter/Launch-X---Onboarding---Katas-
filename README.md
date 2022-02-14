@@ -4,7 +4,7 @@ Primera parte del programa Launch X para reforzar conocimientos fundamentales so
 Tabla de contenidos:
 
 |Archivo|Tema|Módulo|
-|-----|-----|-----|-----|
+|-------|----|-----|
 |Kata_01.ipynb|Preparación del entorno de trabajo|0|
 |Kata_02.ipynb|Primeros pasos|1|
 |Kata_03.sh|Crear y administrar proyectos|2|
